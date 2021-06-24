@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<OXY>
+  <ToaDo>
+    <Ox>1</Ox>
+    <Oy>1</Oy>
+  </ToaDo>
+  <ToaDo>
+    <Ox>2</Ox>
+    <Oy>-3</Oy>
+  </ToaDo>
+  <ToaDo>
+    <Ox>-2</Ox>
+    <Oy>9</Oy>
+  </ToaDo>
+  <ToaDo>
+    <Ox>7</Ox>
+    <Oy>-1</Oy>
+  </ToaDo>
+  <ToaDo>
+    <Ox>9</Ox>
+    <Oy>-10</Oy>
+  </ToaDo>
+</OXY>
+
